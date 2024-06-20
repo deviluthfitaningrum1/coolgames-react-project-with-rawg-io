@@ -9,9 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://react.dev" target="_blank">
-          <img src="https://ukpppg.bppp.kemdikbud.go.id/peserta/assets/images/logo-menteri.svg" class="h-2rem md:h-4rem" alt=" " />
-        </a>
+        <img src="https://ukpppg.bppp.kemdikbud.go.id/peserta/assets/images/logo-menteri.svg" class="h-2rem md:h-4rem" alt=" " />
+        
       </div>
       <h1>SCORING</h1>
       <div className="card">
